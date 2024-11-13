@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rockaway Beach: My Favorite Vacation Spot</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Rockaway Beach, Oregon</h1>
+        <p>Where the Coastline is Endless, and the Memories Last Forever</p>
+    </header>
+
+    <!-- Introduction Section -->
+    <section id="introduction">
+        <h2>Why I Love Rockaway Beach</h2>
+        <p>Rockaway Beach is a place close to my heart, filled with endless stretches of beautiful coastline, peaceful surroundings, and the charm of a small-town getaway.</p>
+    </section>
+
+    <!-- Featured Spot: Flamingo Jim's -->
+    <section id="flamingo-jims">
+        <h2>Featured Spot: Flamingo Jim's</h2>
+        <p>Flamingo Jim's is a treasure trove of unique finds and beach-themed souvenirs. It’s a must-visit spot that brings back wonderful memories of childhood visits.</p>
+    </section>
+
+    <!-- Photo Gallery Section -->
+    <section id="gallery">
+        <h2>Photo Gallery</h2>
+        <div class="gallery">
+            <img src="coastline.jpg" alt="Open coastline at Rockaway Beach">
+            <img src="flamingo-jims.jpg" alt="Flamingo Jim's storefront">
+            <img src="icecream.jpg" alt="Ice cream shop">
+        </div>
+    </section>
+
+    <!-- Ice Cream Memories Section -->
+    <section id="icecream-memories">
+        <h2>Ice Cream Memories</h2>
+        <p>Every summer, my family and I would try a new ice cream spot, making each visit unique and memorable. Those trips are part of what makes Rockaway Beach so special to me.</p>
+    </section>
+
+    <!-- Closing Message Section -->
+    <section id="closing-message">
+        <h2>Thanks for Visiting!</h2>
+        <p>I hope you get a chance to explore Rockaway Beach and create your own unforgettable memories.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Rockaway Beach Adventures | Explore the Oregon Coast</p>
+    </footer>
+
+</body>
+</html>
